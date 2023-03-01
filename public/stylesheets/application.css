@@ -1,0 +1,27 @@
+body {
+    background-color: wheat;
+    margin-left: 30px;
+}
+
+h1 {
+    color: red;
+    font-size: 72px;
+}
+
+p {
+    font-size: 28px;
+    color: violet;
+}
+
+p a {
+    color: black;
+    text-decoration: none;
+}
+
+#boba {
+    color: blue;
+}
+
+.bright {
+    color: green;
+}
